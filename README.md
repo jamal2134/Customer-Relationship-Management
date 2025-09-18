@@ -1,7 +1,3 @@
-Certainly! Based on the contents of your GitHub repository, here's a comprehensive README template tailored for your React Native Customer Relationship Management (CRM) application:
-
----
-
 # Customer Relationship Management (CRM)
 
 A React Native application designed to streamline customer management processes, including adding, viewing, and editing customer information.
